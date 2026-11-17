@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author -Umair Azam
+Author -Umair Azam (apna college)
+git 
